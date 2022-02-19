@@ -1,4 +1,4 @@
-﻿
+
 .container {
     background-color: rgb(192, 192, 192);
     width: 40%;
@@ -10,10 +10,10 @@
 .progress {
     
     color: rgb(0, 0, 0);
-    
     text-align: right;
     font-size: 20px;
     border-radius: 15px;
+    width: 50%;
 }
 
 .Progress_btn{
@@ -21,26 +21,21 @@
 }
 
 #progress1 {
-    background-color: rgb(116, 194, 92);
-    width: 50%;
+    background-color: rgb(116, 194, 92);    
 }
 
 #progress2 {
-    background-color: rgb(194, 92, 92);
-    width: 50%;
+    background-color: rgb(194, 92, 92);    
 }
 
 #progress3 {
     background-color: rgba(255,255,255);
-    width: 50%;
 }
 
 #progress4 {
     background-color: rgb(47, 0, 216);
-    width: 50%;
 }
 
 #progress5 {
     background-color: rgb(255, 217, 0);
-    width: 50%;
 }
